@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "The Autonomous Multi-Agent Learning Operating System for Every Student on Earth.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
